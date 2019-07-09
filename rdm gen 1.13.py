@@ -1,5 +1,5 @@
 # based on 1.12
-# project : put 2d function on plan
+# project : infinite scrolling plan
 
 import pygame
 from pygame.locals import *
